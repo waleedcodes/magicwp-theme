@@ -1,0 +1,53 @@
+{
+  "name": "magicwp-theme",
+  "displayName": "MagicWP Developer Theme",
+  "description": "A professional VS Code theme designed specifically for WordPress developers, inspired by the MagicWP Tools platform. Features dark and light variants with syntax highlighting optimized for WordPress development, including special highlighting for WordPress core functions, hooks, and template tags. Carefully selected colors reduce eye strain during long coding sessions with enhanced token colorization for better code understanding.",
+  "version": "0.1.0",
+  "publisher": "MagicWP",
+  "author": {
+    "name": "MagicWP Team"
+  },
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "wordpress",
+    "wp",
+    "developer",
+    "magicwp",
+    "theme",
+    "dark theme",
+    "light theme"
+  ],
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#1e1e2e",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "MagicWP Developer",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MagicWP-Developer-color-theme.json"
+      },
+      {
+        "label": "MagicWP Developer Light",
+        "uiTheme": "vs",
+        "path": "./themes/MagicWP-Developer-Light-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/magicwp/magicwp-vscode-theme"
+  },
+  "homepage": "https://magicwptools.com",
+  "bugs": {
+    "url": "https://github.com/magicwp/magicwp-vscode-theme/issues"
+  },
+  "license": "MIT"
+}

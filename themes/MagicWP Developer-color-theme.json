@@ -1,0 +1,299 @@
+{
+	"name": "MagicWP Developer",
+	"type": "dark",
+	"colors": {
+	  // Base UI colors
+	  "editor.background": "#1e1e2e",
+	  "editor.foreground": "#f8fafc",
+	  "editor.lineHighlightBackground": "#2a2b40",
+	  "editor.selectionBackground": "#2e365f",
+	  "editor.selectionHighlightBackground": "#292b3e",
+	  "editorLineNumber.foreground": "#64748b",
+	  "editorLineNumber.activeForeground": "#94a3b8",
+	  "editorCursor.foreground": "#3b82f6",
+	  
+	  // Activity bar (left sidebar icons)
+	  "activityBar.background": "#121420",
+	  "activityBar.foreground": "#94a3b8",
+	  "activityBar.activeBorder": "#3b82f6",
+	  "activityBar.inactiveForeground": "#64748b",
+	  "activityBarBadge.background": "#3b82f6",
+	  "activityBarBadge.foreground": "#ffffff",
+	  
+	  // Sidebar (file explorer)
+	  "sideBar.background": "#131526",
+	  "sideBar.foreground": "#cbd5e1",
+	  "sideBarTitle.foreground": "#f8fafc",
+	  "sideBarSectionHeader.background": "#1e1e2e",
+	  "sideBarSectionHeader.foreground": "#f8fafc",
+	  "list.activeSelectionBackground": "#2e365f",
+	  "list.activeSelectionForeground": "#ffffff",
+	  "list.hoverBackground": "#1e2035",
+	  "list.inactiveSelectionBackground": "#1e2035",
+	  
+	  // Title and menu bar
+	  "titleBar.activeBackground": "#121420",
+	  "titleBar.activeForeground": "#f8fafc",
+	  "menubar.selectionBackground": "#1e2040",
+	  "menubar.selectionForeground": "#ffffff",
+	  
+	  // Status bar (bottom)
+	  "statusBar.background": "#121420",
+	  "statusBar.foreground": "#94a3b8",
+	  "statusBar.noFolderBackground": "#121420",
+	  "statusBar.debuggingBackground": "#3b82f6",
+	  "statusBar.debuggingForeground": "#ffffff",
+	  
+	  // Tabs
+	  "tab.activeBackground": "#1e1e2e",
+	  "tab.activeForeground": "#ffffff",
+	  "tab.inactiveBackground": "#131526",
+	  "tab.inactiveForeground": "#94a3b8",
+	  "tab.activeBorder": "#3b82f6",
+	  "tab.activeBorderTop": "#3b82f6",
+	  "tab.hoverBackground": "#1e2035",
+	  
+	  // Panels and terminal
+	  "panel.background": "#131526",
+	  "panelTitle.activeBorder": "#3b82f6",
+	  "panelTitle.activeForeground": "#f8fafc",
+	  "panelTitle.inactiveForeground": "#94a3b8",
+	  "terminal.background": "#131526",
+	  "terminal.foreground": "#cbd5e1",
+	  
+	  // Dropdown and input
+	  "dropdown.background": "#1e1e2e",
+	  "dropdown.foreground": "#f8fafc",
+	  "input.background": "#1e1e2e",
+	  "input.foreground": "#f8fafc",
+	  "input.placeholderForeground": "#64748b",
+	  
+	  // Scrollbar
+	  "scrollbarSlider.background": "#3b3f5e80",
+	  "scrollbarSlider.hoverBackground": "#3b3f5eaa",
+	  "scrollbarSlider.activeBackground": "#3b82f680",
+	  
+	  // Other UI elements
+	  "badge.background": "#3b82f6",
+	  "badge.foreground": "#ffffff",
+	  "breadcrumb.foreground": "#94a3b8",
+	  "breadcrumb.focusForeground": "#f8fafc",
+	  "breadcrumb.activeSelectionForeground": "#3b82f6",
+	  "button.background": "#3b82f6",
+	  "button.foreground": "#ffffff",
+	  "button.hoverBackground": "#2563eb",
+	  "diffEditor.insertedTextBackground": "#10b98120",
+	  "diffEditor.removedTextBackground": "#e11d4820",
+	  "progressBar.background": "#3b82f6"
+	},
+	"tokenColors": [
+	  {
+		"name": "Comments",
+		"scope": ["comment", "punctuation.definition.comment"],
+		"settings": {
+		  "foreground": "#64748b",
+		  "fontStyle": "italic"
+		}
+	  },
+	  {
+		"name": "Strings",
+		"scope": ["string", "punctuation.definition.string"],
+		"settings": {
+		  "foreground": "#10b981"
+		}
+	  },
+	  {
+		"name": "Constants and numbers",
+		"scope": ["constant", "constant.numeric", "constant.language", "constant.character"],
+		"settings": {
+		  "foreground": "#f59e0b"
+		}
+	  },
+	  {
+		"name": "Variables",
+		"scope": ["variable", "variable.language", "variable.parameter"],
+		"settings": {
+		  "foreground": "#cbd5e1"
+		}
+	  },
+	  {
+		"name": "Keywords",
+		"scope": ["keyword", "keyword.control", "storage.modifier"],
+		"settings": {
+		  "foreground": "#8b5cf6",
+		  "fontStyle": ""
+		}
+	  },
+	  {
+		"name": "Storage",
+		"scope": ["storage", "storage.type", "storage.modifier"],
+		"settings": {
+		  "foreground": "#ec4899"
+		}
+	  },
+	  {
+		"name": "Classes",
+		"scope": ["entity.name.class", "entity.name.type.class", "entity.name.type"],
+		"settings": {
+		  "foreground": "#f59e0b",
+		  "fontStyle": "bold"
+		}
+	  },
+	  {
+		"name": "Functions",
+		"scope": ["entity.name.function", "meta.function-call.generic"],
+		"settings": {
+		  "foreground": "#3b82f6",
+		  "fontStyle": ""
+		}
+	  },
+	  {
+		"name": "HTML Tags",
+		"scope": ["entity.name.tag", "punctuation.definition.tag"],
+		"settings": {
+		  "foreground": "#ec4899"
+		}
+	  },
+	  {
+		"name": "Attributes",
+		"scope": ["entity.other.attribute-name"],
+		"settings": {
+		  "foreground": "#f59e0b",
+		  "fontStyle": "italic"
+		}
+	  },
+	  {
+		"name": "CSS Properties",
+		"scope": ["support.type.property-name"],
+		"settings": {
+		  "foreground": "#94a3b8"
+		}
+	  },
+	  {
+		"name": "CSS Values",
+		"scope": ["support.constant.property-value"],
+		"settings": {
+		  "foreground": "#10b981"
+		}
+	  },
+	  {
+		"name": "CSS Units",
+		"scope": ["keyword.other.unit"],
+		"settings": {
+		  "foreground": "#f59e0b"
+		}
+	  },
+	  {
+		"name": "PHP Variables",
+		"scope": ["variable.other.php", "variable.language.this.php"],
+		"settings": {
+		  "foreground": "#e11d48"
+		}
+	  },
+	  {
+		"name": "PHP Function Calls",
+		"scope": ["meta.function-call.php"],
+		"settings": {
+		  "foreground": "#3b82f6"
+		}
+	  },
+	  {
+		"name": "WordPress Specific",
+		"scope": [
+		  "support.function.wordpress",
+		  "meta.function-call.php support.function.wordpress"
+		],
+		"settings": {
+		  "foreground": "#0284c7",
+		  "fontStyle": "bold"
+		}
+	  },
+	  {
+		"name": "WordPress Hook Functions",
+		"scope": [
+		  "support.function.wordpress.hook",
+		  "meta.function-call.php entity.name.function.wordpress.hook"
+		],
+		"settings": {
+		  "foreground": "#7c3aed",
+		  "fontStyle": "italic"
+		}
+	  },
+	  {
+		"name": "JavaScript Object Properties",
+		"scope": ["meta.object-literal.key", "variable.other.property"],
+		"settings": {
+		  "foreground": "#94a3b8"
+		}
+	  },
+	  {
+		"name": "JSON Properties",
+		"scope": ["support.type.property-name.json"],
+		"settings": {
+		  "foreground": "#ec4899"
+		}
+	  },
+	  {
+		"name": "TypeScript Types",
+		"scope": ["entity.name.type.interface.ts", "entity.name.type.ts"],
+		"settings": {
+		  "foreground": "#f59e0b",
+		  "fontStyle": "bold"
+		}
+	  },
+	  {
+		"name": "TypeScript Interfaces",
+		"scope": ["entity.name.type.interface"],
+		"settings": {
+		  "foreground": "#f59e0b",
+		  "fontStyle": "bold italic"
+		}
+	  },
+	  {
+		"name": "Markdown Headings",
+		"scope": ["markup.heading"],
+		"settings": {
+		  "foreground": "#3b82f6",
+		  "fontStyle": "bold"
+		}
+	  },
+	  {
+		"name": "Markdown Links",
+		"scope": ["markup.underline.link"],
+		"settings": {
+		  "foreground": "#0284c7",
+		  "fontStyle": "underline"
+		}
+	  },
+	  {
+		"name": "Markdown Bold",
+		"scope": ["markup.bold"],
+		"settings": {
+		  "foreground": "#f59e0b",
+		  "fontStyle": "bold"
+		}
+	  },
+	  {
+		"name": "Markdown Italic",
+		"scope": ["markup.italic"],
+		"settings": {
+		  "foreground": "#ec4899",
+		  "fontStyle": "italic"
+		}
+	  },
+	  {
+		"name": "Markdown Code",
+		"scope": ["markup.inline.raw", "markup.fenced_code"],
+		"settings": {
+		  "foreground": "#10b981"
+		}
+	  }
+	],
+	"semanticHighlighting": true,
+	"semanticTokenColors": {
+	  "property": "#94a3b8",
+	  "function": "#3b82f6",
+	  "variable.defaultLibrary": "#8b5cf6",
+	  "class": "#f59e0b"
+	}
+  }
