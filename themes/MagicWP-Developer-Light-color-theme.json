@@ -7,7 +7,6 @@
     "editor.foreground": "#1e293b",
     "editor.lineHighlightBackground": "#eef2ff",
     "editor.selectionBackground": "#c7d2fe",
-    "editor.selectionHighlightBackground": "#e0e7ff",
     "editorLineNumber.foreground": "#94a3b8",
     "editorLineNumber.activeForeground": "#64748b",
     "editorCursor.foreground": "#4f46e5",
@@ -97,8 +96,6 @@
     
     // Welcome page
     "welcomePage.background": "#f8fafc",
-    "welcomePage.buttonBackground": "#eef2ff",
-    "welcomePage.buttonHoverBackground": "#c7d2fe",
     
     // Git decorations
     "gitDecoration.addedResourceForeground": "#059669",
