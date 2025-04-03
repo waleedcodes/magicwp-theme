@@ -2,7 +2,7 @@
 
 All notable changes to the "MagicWP Developer Theme" extension will be documented in this file.
 
-## [0.1.0] - 2023-XX-XX
+## [0.1.0] - 04-04-2025
 
 - Initial release
 - Added dark theme
