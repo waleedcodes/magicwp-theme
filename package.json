@@ -3,7 +3,7 @@
   "displayName": "MagicWP Developer Theme",
   "description": "A professional VS Code theme designed specifically for WordPress developers, inspired by the MagicWP Tools platform. Features dark and light variants with syntax highlighting optimized for WordPress development, including special highlighting for WordPress core functions, hooks, and template tags. Carefully selected colors reduce eye strain during long coding sessions with enhanced token colorization for better code understanding.",
   "version": "0.1.0",
-  "publisher": "MagicWP",
+  "publisher": "MianShahzadRaza",
   "author": {
     "name": "Mian Shahzad Raza"
   },
