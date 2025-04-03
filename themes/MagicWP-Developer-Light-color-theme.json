@@ -3,7 +3,7 @@
   "type": "light",
   "colors": {
     // Base UI colors with indigo influence
-    "editor.background": "#f8fafc",
+    "editor.background": "#eeeefb",
     "editor.foreground": "#1e293b",
     "editor.lineHighlightBackground": "#eef2ff",
     "editor.selectionBackground": "#c7d2fe",
@@ -21,8 +21,8 @@
     "activityBarBadge.foreground": "#ffffff",
     
     // Sidebar (file explorer)
-    "sideBar.background": "#f1f5f9",
-    "sideBar.foreground": "#475569",
+    "sideBar.background": "#e9e9fb",
+    "sideBar.foreground": "#212933",
     "sideBarTitle.foreground": "#334155",
     "sideBarSectionHeader.background": "#e0e7ff",
     "sideBarSectionHeader.foreground": "#4338ca",
@@ -46,20 +46,21 @@
     "statusBar.debuggingForeground": "#ffffff",
     
     // Tabs
-    "tab.activeBackground": "#f8fafc",
+    "tab.activeBackground": "#d7dbfc",
     "tab.activeForeground": "#1e293b",
-    "tab.inactiveBackground": "#f1f5f9",
+    "tab.inactiveBackground": "#f5faff",
     "tab.inactiveForeground": "#64748b",
     "tab.activeBorder": "#4f46e5",
     "tab.activeBorderTop": "#4f46e5",
     "tab.hoverBackground": "#eef2ff",
+    "editorGroupHeader.tabsBackground": "#d9dafa",
     
     // Panels and terminal
     "panel.background": "#f1f5f9",
     "panelTitle.activeBorder": "#4f46e5",
     "panelTitle.activeForeground": "#1e293b",
     "panelTitle.inactiveForeground": "#64748b",
-    "terminal.background": "#f1f5f9",
+    "terminal.background": "#e7f1fb",
     "terminal.foreground": "#1e293b",
     "terminal.ansiBlue": "#4f46e5",
     "terminal.ansiCyan": "#0891b2",
@@ -118,7 +119,7 @@
       "name": "Strings",
       "scope": ["string", "punctuation.definition.string"],
       "settings": {
-        "foreground": "#059669"
+        "foreground": "#0a9367"
       }
     },
     {
@@ -206,14 +207,14 @@
       "name": "PHP Variables",
       "scope": ["variable.other.php", "variable.language.this.php"],
       "settings": {
-        "foreground": "#fc98b1"
+        "foreground": "#e50086"
       }
     },
     {
       "name": "PHP Function Calls",
       "scope": ["meta.function-call.php"],
       "settings": {
-        "foreground": "#cccafe"
+        "foreground": "#f35c0a",
       }
     },
     {

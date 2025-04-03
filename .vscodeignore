@@ -5,6 +5,10 @@ vsc-extension-quickstart.md
 .git/**
 .github/**
 node_modules/**
-images/screenshots/**
 **/*.map
 **/*.ts
+
+# Make sure images are NOT ignored
+!images/**
+!images/*.png
+!images/*.jpg

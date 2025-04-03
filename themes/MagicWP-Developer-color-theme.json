@@ -53,6 +53,7 @@
 	  "tab.activeBorder": "#fad000",
 	  "tab.activeBorderTop": "#fad000",
 	  "tab.hoverBackground": "#2d2b55",
+	  "editorGroupHeader.tabsBackground": "#101127",
 	  
 	  // Panels and terminal
 	  "panel.background": "#151632",

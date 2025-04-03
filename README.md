@@ -12,10 +12,10 @@ A professional VS Code theme designed specifically for WordPress developers, ins
 ## Screenshots
 
 ### Dark Theme
-![MagicWP Developer Dark Theme](images/dark-theme-screenshot.png)
+![MagicWP Developer Dark Theme](https://raw.githubusercontent.com/wpacademy/magicwp-theme/master/images/dark-theme-screenshot.png)
 
 ### Light Theme
-![MagicWP Developer Light Theme](images/light-theme-screenshot.png)
+![MagicWP Developer Light Theme](https://raw.githubusercontent.com/wpacademy/magicwp-theme/master/images/light-theme-screenshot.png)
 
 ## Optimized For
 
