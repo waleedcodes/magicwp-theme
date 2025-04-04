@@ -1,6 +1,12 @@
 # Change Log
 
-All notable changes to the "MagicWP Developer Theme" extension will be documented in this file.
+All notable changes to the "MagicWP Indigo Vibes" extension will be documented in this file.
+
+## [0.1.2] - 04-04-2025
+- Updated Name & Tags
+
+## [0.1.1] - 04-04-2025
+- Updated Github links
 
 ## [0.1.0] - 04-04-2025
 

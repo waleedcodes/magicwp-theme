@@ -12,10 +12,10 @@ A professional VS Code theme designed specifically for WordPress developers, ins
 ## Screenshots
 
 ### Dark Theme
-![MagicWP Developer Dark Theme](https://raw.githubusercontent.com/wpacademy/magicwp-theme/master/images/dark-theme-screenshot.png)
+![MagicWP Indigo Vibes Dark Theme](https://raw.githubusercontent.com/wpacademy/magicwp-theme/master/images/dark-theme-screenshot.png)
 
 ### Light Theme
-![MagicWP Developer Light Theme](https://raw.githubusercontent.com/wpacademy/magicwp-theme/master/images/light-theme-screenshot.png)
+![MagicWP Indigo Vibes Light Theme](https://raw.githubusercontent.com/wpacademy/magicwp-theme/master/images/light-theme-screenshot.png)
 
 ## Optimized For
 
@@ -38,7 +38,7 @@ This theme includes special highlighting for:
 ## Installation
 
 1. Open **Extensions** sidebar panel in VS Code (`Ctrl+Shift+X` or `Cmd+Shift+X`)
-2. Search for `MagicWP Developer Theme`
+2. Search for `MagicWP Indigo Vibes`
 3. Click **Install**
 4. Select the theme via **File > Preferences > Color Theme** or by pressing `Ctrl+K Ctrl+T`
 
