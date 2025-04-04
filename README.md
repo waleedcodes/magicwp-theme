@@ -1,4 +1,4 @@
-# MagicWP Developer Theme for VS Code
+# Indigo Vibes Theme for VS Code
 
 A professional VS Code theme designed specifically for WordPress developers, inspired by the MagicWP Tools platform.
 
