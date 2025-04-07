@@ -1,5 +1,5 @@
 {
-	"name": "MagicWP Developer",
+	"name": "MagicWP Indigo Vibes",
 	"type": "dark",
 	"colors": {
 	  // Base UI colors with deeper indigo influence
@@ -9,28 +9,28 @@
 	  "editor.selectionBackground": "#3c417e",
 	  "editorLineNumber.foreground": "#a599e9",
 	  "editorLineNumber.activeForeground": "#e7de79",
-	  "editorCursor.foreground": "#fad000",
+	  "editorCursor.foreground": "#fecb00",
 	  "editorWhitespace.foreground": "#ffffff33",
 	  
 	  // Activity bar (left sidebar icons)
 	  "activityBar.background": "#13143a",
 	  "activityBar.foreground": "#a599e9",
-	  "activityBar.activeBorder": "#fad000",
+	  "activityBar.activeBorder": "#fecb00",
 	  "activityBar.inactiveForeground": "#7d76b7",
-	  "activityBarBadge.background": "#fad000",
+	  "activityBarBadge.background": "#fecb00",
 	  "activityBarBadge.foreground": "#13143a",
 	  
 	  // Sidebar (file explorer)
 	  "sideBar.background": "#151632",
 	  "sideBar.foreground": "#a599e9",
-	  "sideBarTitle.foreground": "#fad000",
+	  "sideBarTitle.foreground": "#fecb00",
 	  "sideBarSectionHeader.background": "#1e1e4b",
-	  "sideBarSectionHeader.foreground": "#fad000",
+	  "sideBarSectionHeader.foreground": "#fecb00",
 	  "list.activeSelectionBackground": "#2d2b55",
 	  "list.activeSelectionForeground": "#ffffff",
 	  "list.hoverBackground": "#222246",
 	  "list.inactiveSelectionBackground": "#222246",
-	  "list.highlightForeground": "#fad000",
+	  "list.highlightForeground": "#fecb00",
 	  
 	  // Title and menu bar
 	  "titleBar.activeBackground": "#13143a",
@@ -42,7 +42,7 @@
 	  "statusBar.background": "#13143a",
 	  "statusBar.foreground": "#a599e9",
 	  "statusBar.noFolderBackground": "#13143a",
-	  "statusBar.debuggingBackground": "#fad000",
+	  "statusBar.debuggingBackground": "#fecb00",
 	  "statusBar.debuggingForeground": "#13143a",
 	  
 	  // Tabs
@@ -50,14 +50,14 @@
 	  "tab.activeForeground": "#ffffff",
 	  "tab.inactiveBackground": "#1e1e3f",
 	  "tab.inactiveForeground": "#a599e9",
-	  "tab.activeBorder": "#fad000",
-	  "tab.activeBorderTop": "#fad000",
+	  "tab.activeBorder": "#fecb00",
+	  "tab.activeBorderTop": "#fecb00",
 	  "tab.hoverBackground": "#2d2b55",
 	  "editorGroupHeader.tabsBackground": "#101127",
 	  
 	  // Panels and terminal
 	  "panel.background": "#151632",
-	  "panelTitle.activeBorder": "#fad000",
+	  "panelTitle.activeBorder": "#fecb00",
 	  "panelTitle.activeForeground": "#ffffff",
 	  "panelTitle.inactiveForeground": "#a599e9",
 	  "terminal.background": "#151632",
@@ -67,7 +67,7 @@
 	  "terminal.ansiGreen": "#3ad900",
 	  "terminal.ansiMagenta": "#ff2c70",
 	  "terminal.ansiRed": "#ec3a37",
-	  "terminal.ansiYellow": "#fad000",
+	  "terminal.ansiYellow": "#fecb00",
 	  
 	  // Dropdown and input
 	  "dropdown.background": "#1e1e3f",
@@ -75,28 +75,28 @@
 	  "input.background": "#2d2b55",
 	  "input.foreground": "#f8fafc",
 	  "input.placeholderForeground": "#a599e9",
-	  "inputOption.activeBorder": "#fad000",
+	  "inputOption.activeBorder": "#fecb00",
 	  
 	  // Scrollbar
 	  "scrollbarSlider.background": "#a599e980",
 	  "scrollbarSlider.hoverBackground": "#a599e9aa",
-	  "scrollbarSlider.activeBackground": "#fad00080",
+	  "scrollbarSlider.activeBackground": "#fecb0080",
 	  
 	  // Other UI elements
-	  "badge.background": "#fad000",
+	  "badge.background": "#fecb00",
 	  "badge.foreground": "#13143a",
 	  "breadcrumb.foreground": "#a599e9",
 	  "breadcrumb.focusForeground": "#f8fafc",
-	  "breadcrumb.activeSelectionForeground": "#fad000",
-	  "button.background": "#fad000",
+	  "breadcrumb.activeSelectionForeground": "#fecb00",
+	  "button.background": "#fecb00",
 	  "button.foreground": "#13143a",
 	  "button.hoverBackground": "#ffee00",
 	  "diffEditor.insertedTextBackground": "#3ad90020",
 	  "diffEditor.removedTextBackground": "#ff2c7020",
-	  "progressBar.background": "#fad000",
+	  "progressBar.background": "#fecb00",
 	  "peekViewEditor.background": "#1e1e3f",
 	  "editorWidget.background": "#1e1e3f",
-	  "editorWidget.border": "#fad000",
+	  "editorWidget.border": "#fecb00",
 	  "editorSuggestWidget.background": "#1e1e3f",
 	  
 	  // Welcome page
@@ -104,7 +104,7 @@
 	  
 	  // Git decorations
 	  "gitDecoration.addedResourceForeground": "#3ad900",
-	  "gitDecoration.modifiedResourceForeground": "#fad000",
+	  "gitDecoration.modifiedResourceForeground": "#fecb00",
 	  "gitDecoration.deletedResourceForeground": "#ff2c70",
 	  "gitDecoration.untrackedResourceForeground": "#a599e9",
 	  "gitDecoration.ignoredResourceForeground": "#7d76b7",
@@ -130,7 +130,7 @@
 		"name": "Function calls",
 		"scope": ["meta.function-call.generic", "variable.function"],
 		"settings": {
-		  "foreground": "#9effff"
+		  "foreground": "#95fcfc"
 		}
 	  },
 	  {
@@ -209,7 +209,7 @@
 		"name": "Attributes",
 		"scope": ["entity.other.attribute-name"],
 		"settings": {
-		  "foreground": "#4ddff9",
+		  "foreground": "#77e6f9",
 		  "fontStyle": "italic"
 		}
 	  },
@@ -308,7 +308,7 @@
 		"name": "Markdown Headings",
 		"scope": ["markup.heading"],
 		"settings": {
-		  "foreground": "#fad000",
+		  "foreground": "#fecb00",
 		  "fontStyle": "bold"
 		}
 	  },
@@ -347,7 +347,7 @@
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
 	  "property": "#9effff",
-	  "function": "#fad000",
+	  "function": "#fecb00",
 	  "variable.defaultLibrary": "#c792ea",
 	  "class": "#80ffea",
 	  "enumMember": "#ffee80"
