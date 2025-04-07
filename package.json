@@ -2,7 +2,7 @@
   "name": "magicwp-theme",
   "displayName": "MagicWP Indigo Vibes",
   "description": "A sleek VS Code theme by the MagicWP Team, featuring a dark indigo base with vibrant syntax highlighting. Eye-friendly and supports multiple languages with special enhancements for PHP and WordPress. Fully compatible with popular extensions for a smooth dev experience.",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "publisher": "MianShahzadRaza",
   "author": {
     "name": "Mian Shahzad Raza"

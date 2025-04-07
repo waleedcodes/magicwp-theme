@@ -2,6 +2,9 @@
 
 All notable changes to the "MagicWP Indigo Vibes" extension will be documented in this file.
 
+## [0.1.4] - 07-04-2025
+- Color and Name adjustments
+
 ## [0.1.3] - 05-04-2025
 - Fixed color issues on various locations
 

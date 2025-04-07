@@ -60,8 +60,8 @@ For the best experience, we recommend adding these settings to your `settings.js
 
 This theme is open-source and we welcome your feedback and contributions:
 
-- [GitHub Repository](https://github.com/magicwp/magicwp-vscode-theme)
-- [Report Issues](https://github.com/magicwp/magicwp-vscode-theme/issues)
+- [GitHub Repository](https://github.com/wpacademy/magicwp-theme)
+- [Report Issues](https://github.com/wpacademy/magicwp-theme/issues)
 - [MagicWP Tools](https://magicwptools.com)
 
 ## License
