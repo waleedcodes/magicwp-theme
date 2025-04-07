@@ -1,6 +1,6 @@
 # Indigo Vibes Theme for VS Code
 
-A professional VS Code theme designed specifically for WordPress developers, inspired by the MagicWP Tools platform.
+A professional VS Code theme designed specifically for WordPress developers, inspired by ![Shades of Purple](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple).
 
 ## Features
 
@@ -65,7 +65,6 @@ This theme is open-source and we welcome your feedback and contributions:
 - [MagicWP Tools](https://magicwptools.com)
 
 ## License
-
 MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---

@@ -2,6 +2,7 @@
   "name": "MagicWP Indiogo Vibes Light",
   "type": "light",
   "colors": {
+    
     // Base UI colors with indigo influence
     "editor.background": "#eeeefb",
     "editor.foreground": "#1e293b",
